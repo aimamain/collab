@@ -28,3 +28,6 @@ print(abdurashid.info())
 print(abdulmumid.info())
 
 print("Hello I'm Aiyma and Rashid")
+
+print(h)
+
