@@ -26,3 +26,5 @@ abdurashid = Rashid("Rashid", 19)
 print(malika.info())
 print(abdurashid.info())
 print(abdulmumid.info())
+
+print("Hello I'm Aiyma and Rashid")
